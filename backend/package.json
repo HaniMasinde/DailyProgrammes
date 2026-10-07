@@ -1,0 +1,29 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "my daily programmes backend",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaniMasinde/DailyProgrammes.git"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "express"
+  ],
+  "author": "haningtone Omondi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaniMasinde/DailyProgrammes/issues"
+  },
+  "homepage": "https://github.com/HaniMasinde/DailyProgrammes#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.6",
+    "express": "^5.2.1"
+  }
+}
